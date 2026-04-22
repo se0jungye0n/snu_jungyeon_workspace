@@ -1,0 +1,15 @@
+# GitHub 파일 용량 제한(100MB) 초과 — 참고용 파일들
+**/연구개발계획서(서식1)_251014.hwpx
+**/연구개발계획서-서울대-김영오.pdf
+
+# OS / 편집기 임시파일
+.DS_Store
+Thumbs.db
+*.swp
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
